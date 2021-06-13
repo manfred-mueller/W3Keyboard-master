@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="keyPreView">#1D6D6C</color>
+    <color name="keyboardBgd">#801D6D6C</color>
+    <color name="kbdNormalKeyBgd">#00FFFFFF</color>
+    <color name="kbdPressedKeyBgd">#1B000000</color>
+</resources>
